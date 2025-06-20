@@ -27,6 +27,9 @@
 				src/LaunchAd.x,
 				src/VideoDetailAd.x,
 			);
+			platformFiltersByRelativePath = {
+				Package/Library/MobileSubstrate/DynamicLibraries/TXVideoTweak.dylib = (ios, );
+			};
 			target = BF8B3A712E0537020086DE29 /* TXVideoTweak */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
