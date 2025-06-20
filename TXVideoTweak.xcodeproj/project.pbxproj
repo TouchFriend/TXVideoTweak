@@ -23,7 +23,6 @@
 		BF8B3A9F2E0537610086DE29 /* Exceptions for "TXVideoTweak" folder in "TXVideoTweak" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Package/Library/MobileSubstrate/DynamicLibraries/TXVideoTweak.dylib,
 				src/HomeAd.x,
 				src/LaunchAd.x,
 				src/VideoDetailAd.x,
